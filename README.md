@@ -1,11 +1,14 @@
-### Hi there 👋, Abenezer Kebede 
-#### Software Developer
 ![Software Developer](https://github.com/abenikeb/abenikeb/blob/main/My_first_banner_small.png)
+
+### Hi there 👋, I am Abenezer Kebede 
+#### Software Developer
 
 I'm Abenzer from Addis Ababa, Ethiopia and I do content on Software Development. I really enjoy learning languages and frameworks like React and Vue JS, as well as working in PHP. I also enjoy wireframing, UI, UX, and design in general.
 
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+### Skills and Experience
+* ⚛ React
+* 🖥 HTML, CSS & JS
+* 🖥 Node JS & Express JS
 
 - 🔭 I’m currently working on Zeraf Technologies Company 
 - 🌱 I’m currently learning Vue JS & Nuxt JS  
