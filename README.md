@@ -1,6 +1,6 @@
 ![Software Developer](https://github.com/abenikeb/abenikeb/blob/main/My_first_banner_small.png)
 
-### Hi there 👋, I am Abenezer Kebede 
+# Abenezer Kebede 
 #### Software Developer
 
 I'm Abenzer from Addis Ababa, Ethiopia and I do content on Software Development. I really enjoy learning languages and frameworks like React and Vue JS, as well as working in PHP. I also enjoy wireframing, UI, UX, and design in general.
