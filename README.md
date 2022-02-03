@@ -3,7 +3,7 @@
 # Abenezer Kebede 
 #### Software Developer
 
-I'm Abenzer from Addis Ababa, and I do content on Software Development. I really enjoy learning languages and frameworks like React and Vue JS, as well as working in PHP. I also enjoy wireframing, UI, UX, and design in general.
+I'm Abenzer from Addis Ababa, and I do content on Software Development. I specialize in JavaScript and have professional experience working with PHP & Python. I also have experience working with Vue, React, and Node.
 
 ## Skills and Experience
 * ⚛ React
