@@ -18,7 +18,7 @@ I'm Abenzer from Addis Ababa, and I do content on Software Development. I specia
 <a href="https://github.com/abenikeb/fetandelivery"><img src="https://github.com/abenikeb/abenikeb/blob/main/Picture1.png" width="300" /></a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abenikeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abenezer-kebede-804479214)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbenezerKebede4)  [<img src='https://github.com/abenikeb/abenikeb/blob/main/My_first_banner_small.png' alt='website' height='40'>](https://github.com/abenikeb) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abenezer.ke.50)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15512976/abenezer-kebede)   
+   
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenikeb)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,3 +28,5 @@ I'm Abenzer from Addis Ababa, and I do content on Software Development. I specia
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abenikeb)  
 
 ![Profile views](https://gpvc.arturio.dev/abenikeb)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abenikeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abenezer-kebede-804479214)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbenezerKebede4)  [<img src='https://github.com/abenikeb/abenikeb/blob/main/My_first_banner_small.png' alt='website' height='40'>](https://github.com/abenikeb) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abenezer.ke.50)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15512976/abenezer-kebede)
